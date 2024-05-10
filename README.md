@@ -116,7 +116,7 @@ Throughout the project, we valued each other's opinions, availability, and timel
 
 ![image](https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/DeploymentDiagramLMS.png)
 
-## Deliverables and Weekly Scrum Report
+## Journal and Weekly Scrum Report
 
 > Detailed Sprint task distribution in our [Sprint Chart](https://docs.google.com/spreadsheets/d/1SPtBPZjJfs1aljyR0dSkWJUQrc0ujuTY2ZukZDJz5Ow/edit#gid=1232063613)
 
