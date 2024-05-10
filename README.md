@@ -116,7 +116,11 @@ Throughout the project, we valued each other's opinions, availability, and timel
 
 ![image](https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/DeploymentDiagramLMS.png)
 
+<<<<<<< HEAD
 ## Deliverables and Weekly Scrum Report
+=======
+## Journal and Weekly Scrum Report
+>>>>>>> a7d42b356e42a156565033fa6361efaba0f3242e
 
 > Detailed Sprint task distribution in our [Sprint Chart](https://docs.google.com/spreadsheets/d/1SPtBPZjJfs1aljyR0dSkWJUQrc0ujuTY2ZukZDJz5Ow/edit#gid=1232063613)
 
@@ -221,7 +225,14 @@ Burndown Chart Sprint 4
 
 ## Team Members
 
+<<<<<<< HEAD
 1. ***S***oumith Reddy Podduturi 
 2. ***N***ikhath Firdose
 3. ***A***lekhya Vaida
 4. ***V***eera Vivek Telagani
+=======
+1. **S**oumith Reddy Podduturi 
+2. **N**ikhath Firdose
+3. **A**lekhya Vaida
+4. **V**eera Vivek Telagani
+>>>>>>> a7d42b356e42a156565033fa6361efaba0f3242e
